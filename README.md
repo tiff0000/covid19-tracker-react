@@ -3,6 +3,9 @@
 A responsive UI COVID19 cases tracker app that tracks the global incidence of deaths and cases. Display the number of cases in each country, number of recoveries, and the number of deaths, in digits and visualization.
 
 # To run
+
+cd covid19-tracker-react
+
 npm start
  
 # Functionalities:
